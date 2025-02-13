@@ -9,7 +9,7 @@ function* generatorFunction() {
   yield "Hello world";
   yield "I am superman";
 }
-//invovcations
+//invocations
 //genobj is an iterator now
 const genObj = generatorFunction();
 
