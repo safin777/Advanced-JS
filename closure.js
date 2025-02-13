@@ -4,9 +4,7 @@
 
 //simple terms to remember
 // a closure is created when a function return from the another function
-//after the inner fuunction exeution it's still has the ability to get the value of its outer scope variable 
-
-
+//after the inner function exeution it's still has the ability to get the value of its outer scope variable 
 
 function outer(){
     let counter = 0 
